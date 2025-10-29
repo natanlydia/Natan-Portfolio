@@ -80,7 +80,7 @@ const Hero = () => {
               <Github className="w-5 h-5 text-white" />
             </a>
             <a 
-              href="https://linkedin.com/in/natanashebir" 
+              href="https://www.linkedin.com/in/natanashebir/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 bg-white/10 backdrop-blur-sm rounded-full hover:bg-primary transition-all duration-300 hover:scale-110"
