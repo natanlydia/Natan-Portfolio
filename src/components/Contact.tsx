@@ -35,7 +35,7 @@ const Contact = () => {
     try {
       await emailjs.send(
         'service_fnakmls',
-        'template_afaeroj',
+        'template_n48pp4j',
         {
           from_name: formData.name,
           from_email: formData.email,
