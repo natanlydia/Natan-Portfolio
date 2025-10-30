@@ -61,7 +61,12 @@ const Portfolio = () => {
                   ))}
                 </div>
 
-                <Button variant="default" size="lg" className="w-full">
+                <Button 
+                  variant="default" 
+                  size="lg" 
+                  className="w-full"
+                  onClick={() => window.open('https://www.figma.com/design/eyqfIFgN0glScwfTuoi8KH/downs-syndrome-ui-ux?node-id=0-1&p=f&t=an7QjD1AudHpYrHF-0', '_blank')}
+                >
                   <ExternalLink className="w-4 h-4 mr-2" />
                   View Project
                 </Button>
@@ -111,7 +116,12 @@ const Portfolio = () => {
                   ))}
                 </div>
 
-                <Button variant="default" size="lg" className="w-full">
+                <Button 
+                  variant="default" 
+                  size="lg" 
+                  className="w-full"
+                  onClick={() => window.open('https://natans-2d6bc5.webflow.io/', '_blank')}
+                >
                   <ExternalLink className="w-4 h-4 mr-2" />
                   View Project
                 </Button>
