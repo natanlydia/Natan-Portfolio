@@ -34,7 +34,7 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 animate-fade-in">
               <p className="text-lg leading-relaxed text-muted-foreground">
-                I recently graduated in <span className="text-foreground font-semibold">Computer Science and Engineering</span>. 
+                I graduated in <span className="text-foreground font-semibold">Computer Science and Engineering</span>. 
                 My journey into tech began with a deep curiosity about how design and code come together to create 
                 meaningful digital experiences.
               </p>
